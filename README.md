@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @arekkonopka
+- Front end React developer for Selleo company.
 - 👀 I’m interested in new technology and sport (running, gym etc.)
 - 📫 How to reach me: email: arekcommerce@gmail.com
 
