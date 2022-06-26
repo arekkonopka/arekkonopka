@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @arekkonopka
 - 👀 I’m interested in new technology and sport (running, gym etc.)
-- 🌱 I’m currently learning REACT ❤
-- 💞️ I’m looking to collaborate on front-end developer.
 - 📫 How to reach me: email: arekcommerce@gmail.com
 
 <!---
